@@ -1,1 +1,2 @@
 # Modern HUD feed: release.py writes the version line, tools/players.py the player lines
+version 1.3.0 https://github.com/byte1ocked/ModernHUD/releases/download/v1.3.0/ModernHUD-Setup.exe
